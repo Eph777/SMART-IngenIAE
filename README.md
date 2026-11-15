@@ -11,4 +11,4 @@ The game helps bridge the gap between spatial concepts and technical decisions
 * Multiplayer available
 
 
-[![Watch the video]()](https://youtu.be/5B2bebW78-c)
+[![Watch the video](Thumbnail.png)](https://youtu.be/5B2bebW78-c)
