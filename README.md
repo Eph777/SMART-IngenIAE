@@ -17,7 +17,7 @@ The game helps bridge the gap between spatial concepts and technical decisions
 
 ## To Download the Game
 1. Download the latest zip in releases
-2. Unzip to a folder
+2. Unzip to a folder named SMART (or whatever you want really)
 3. Launch the SMART.exe file to start playing
 4. Enjoy !!!
 
