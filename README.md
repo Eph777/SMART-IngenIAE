@@ -23,7 +23,5 @@ The game helps bridge the gap between spatial concepts and technical decisions
 
 # Trailer
 
-Watch the Game Trailer
-|_________|_________|
-v         v         v
+Watch the Game Trailer ⤵️
 [![Watch the video](Thumbnail.png)](https://youtu.be/5B2bebW78-c)
