@@ -1,3 +1,7 @@
+# SMART
+
+## Description
+
 SMART = Specific, Measurable, Assignable, Realist, Time-related
 Let's create an interactive, collaborative, and innovative game together! ! On the Way to Mars.
 Your goal is to manage and succeed in launching a space mission trip
@@ -11,4 +15,15 @@ The game helps bridge the gap between spatial concepts and technical decisions
 * Multiplayer available
 
 
+## To Download the Game
+1. Download the latest zip in releases
+2. Unzip to a folder
+3. Launch the SMART.exe file to start playing
+4. Enjoy !!!
+
+# Trailer
+
+Watch the Game Trailer
+|         |         |
+v         v         v
 [![Watch the video](Thumbnail.png)](https://youtu.be/5B2bebW78-c)
